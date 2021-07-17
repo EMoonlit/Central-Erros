@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bOjIKjrtkgzlBqlj6aJfgw6nhqG0WdMqH24XhXbgNJkiUoMTkFKVFrkT5S/Dp+yuMSMY2dXNgZ7YGRJOub2+gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moonlit\\Desktop\\CSharp\\Central-Errors-1\\Central-Errors-1\\Central-Errors-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moonlit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Moonlit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Moonlit\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Moonlit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Moonlit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Moonlit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
