@@ -1,3 +1,4 @@
+using Central_Errors_1.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,6 +29,7 @@ namespace Central_Errors_1
         {
 
             services.AddControllers();
+            services.AddDbContext<Context>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Central_Errors_1", Version = "v1" });
